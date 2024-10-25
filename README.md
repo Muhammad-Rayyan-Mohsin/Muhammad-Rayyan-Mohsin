@@ -1,8 +1,7 @@
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <h1 align="center">Hi 👋, I'm Muhammad Rayyan Mohsin</h1>
 <h3 align="center">An aspiring Data Scientist.</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6581243-Digital-Marketing/attachments/6581243-Digital-Marketing?mode=media")
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rayyan-mohsin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rayyan-mohsin" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Rayyan-Mohsin?tab=repositories](https://github.com/Muhammad-Rayyan-Mohsin?tab=repositories)
