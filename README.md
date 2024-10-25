@@ -1,8 +1,9 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+[![MasterHead](https://camo.githubusercontent.com/1ecb2e9568d5f780044c7f401a8e54226e921a9fa74868131f82bb45872e0214/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Muhammad Rayyan Mohsin</h1>
 <h3 align="center">An aspiring Data Scientist.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rayyan-mohsin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rayyan-mohsin" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Rayyan-Mohsin?tab=repositories](https://github.com/Muhammad-Rayyan-Mohsin?tab=repositories)
 
