@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mo.rayyan2002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-rayyan-mohsin-6a9444335/](https://www.linkedin.com/in/muhammad-rayyan-mohsin-6a9444335/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rayyan-mohsin-216713331/](https://www.linkedin.com/in/rayyan-mohsin-216713331/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
