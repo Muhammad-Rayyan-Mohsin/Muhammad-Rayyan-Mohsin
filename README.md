@@ -29,8 +29,8 @@ I design and ship **end-to-end AI systems** — LLM agents, RAG pipelines, and t
 - 🔭 Building **agentic platforms** for sales, market research, and content ops
 - 🤖 Daily driver: **Claude · OpenAI · Gemini · Mastra · Next.js · Supabase · Make.com**
 - ⚙️ I care about **production-ready systems**, not prototypes
-- 🎓 Pursuing a **Data Science** degree @ FAST-NUCES
-- 🌍 Based in Pakistan 🇵🇰 — working remote with US/EU teams
+- 🎓 Completed **Data Science** degree from FAST-NUCES
+- 🌍 Based in Pakistan 🇵🇰 & UAE 🇦🇪 — working remote with US/EU teams
 - 📫 Reach me at **mo.rayyan2002@gmail.com**
 
 ---
